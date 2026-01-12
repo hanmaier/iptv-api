@@ -1,8 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-http://www.饭太硬.com/tv
-http://ok321.top/tv
-
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 
 
 [WHITELIST]
